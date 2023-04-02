@@ -7,7 +7,7 @@
 
 Fiserv, Inc. is an American multinational company that is headquartered in Brookfield, Wisconsin that provides financial technology services to clients across the financial technology sector, including: 
 * banks 
-* thrits
+* thrifts
 * credit unions 
 * securities broker dealers 
 * mortagage
