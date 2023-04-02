@@ -3,7 +3,7 @@ FinTech Case Study
 # Unit 1 Homework Assignment: FinTech Case Study
 
 ## Background
-![Screenshot of the Fiserv logo.]([label](https://www.google.com/url?sa%3Di%26url%3Dhttps%3A%2F%2Fwww.fintechfutures.com%2F2021%2F03%2Ffiserv-acquires-us-processor-pineapple-payments%2F%26psig%3DAOvVaw3XfTX-l2IdaiH_mIaumYDZ%26ust%3D1680555978124000%26source%3Dimages%26cd%3Dvfe%26ved%3D0CA4QjRxqFwoTCNCFn4KNjP4CFQAAAAAdAAAAABAE))
+![Screenshot of the Fiserv logo.](https://www.fintechfutures.com/files/2016/03/fiserv.png)
 As a FinTech professional, it is critical to learn how FinTech companies start, evolve, and grow, and to be able to speak knowledgeably about the major players in the FinTech space. Even those in a highly technical role must stay abreast of what is happening in the business landscape, as many FinTech companies create tools and technologies that are then used by other companies.
 
 One of the key methods used to conduct corporate analysis is the **case study**. Case studies are often 50–100 pages or more, but your task is to create a more focused case study that analyzes how a FinTech company is responding to the problems and needs of the FinTech domain it is in, and how it is using technology to solve a standing financial problem.
