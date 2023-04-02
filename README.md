@@ -5,7 +5,7 @@
 ![Screenshot of the Fiserv logo.](https://www.fintechfutures.com/files/2016/03/fiserv.png)
 
 
-Fiserv, Inc. is an American multinational company that is headquartered in Brookfield, Wisconsin that provides financial technology services to clients across the financial technology sector, including: 
+Fiserv, Inc. is an American multinational company headquartered in Brookfield, Wisconsin, founded by Leslie Muma and George Dalton.Fiserv was incorporated on July 31,1984 when First Data Processing and Sunshine State Systems merged, birthing a national data processing organization foucused on the financial services industry. Fiserv is publicly funded and is listed on the NASDAQ.They provide financial technology services to clients across the financial technology sector, including: 
 * banks 
 * thrifts
 * credit unions 
@@ -15,38 +15,12 @@ Fiserv, Inc. is an American multinational company that is headquartered in Brook
 * leasing and finance companies
 * retailers
 
-
-### 3. Conduct your research, using the case study template as a guide.
-
-We recommend that you use the case study template below in order to focus your research. You may lengthen, shorten, or––if necessary––remove sections from the template to accommodate the information available about your company.
-
-**Note** If you have chosen a project within a larger company (such as the Apple Credit Card), you may want to focus your research on the origins and scope of the project rather than on the company itself.
-
-**Case Study Template**
-
-```
-# TITLE
-
-## Overview and Origin
-
-* Name of company
-Fiservs
-
-* When was the company incorporated? The company was fouded on July 31,1984.
-
-* Who are the founders of the company? The founders are Leslie Muma and George Dalton.
-
-* How did the idea for the company (or project) come about? The idea of the company was to focus on data processing for regional banks and exapand to a nationwide enterprise.
-
-* How is the company funded? How much funding have they received? The company is publicly funded and is listed on the NASDAQ.
-
-
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve? The compnay offers banks and companies who are looking for soluitons to handle thier processing needs and provied their customers with the latest technology at the lowest price.
+* Fiserv helps clients in areas including account processing and digital banking; card issure processing and network soulutions; card issuer processing and network services; payments; eCommerce; merchant acquiring and processing; and cloud based point-of-sale business management platform.
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers? ORIGINALLY FISERV served its data processing solutions exclusively to regional banks. It now serves small Businesses, public sector, banks, credit unions, other fintechs, large financial institutions and large enterprises.
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?) They offer a full range of financial technology solutions in additon to a vast database of consumer data for their customers. Fiserv offers financial souluionts within muliptle fintech domains such as digital banking, remittance and loan processing and morgtage lending.
+* Fiserv inteded customer ranges from small businesses, public sector, banks, credit unions, and other fintechs to large financial institutions and large enterprises.
+What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?) They offer a full range of financial technology solutions in additon to a vast database of consumer data for their customers. Fiserv also offers financial soulutions within muliptle fintech domains such as digital banking, remittance and loan processing and morgtage lending.
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
